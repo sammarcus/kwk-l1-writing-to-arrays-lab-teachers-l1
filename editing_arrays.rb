@@ -16,6 +16,7 @@ def change_rainbow_colors
 end
 
 def add_colors
+  binding.pry
  rainbow_colors << "green"
  rainbow_colors
 end
