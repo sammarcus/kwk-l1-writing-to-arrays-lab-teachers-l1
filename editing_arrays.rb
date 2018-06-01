@@ -7,7 +7,11 @@ rainbow_colors = [
 ]
 
 def change_rainbow_colors
-  binding.pry
+  rainbow_colors = [
+  "yellow",
+  "default",
+  "light_cyan"
+]
   rainbow_colors
 end
 
