@@ -1,11 +1,11 @@
 rainbow_colors = [
-  "red",
-  "light red",
-  "yellow"
+  "yellow",
+  "default",
+  "light_cyan"
 ]
 
 def change_rainbow_colors
-  rainbow_colors1
+  # Write a solution that corrects the three colors in rainbow_colors, then returns the corrected array
 end
 
 def add_colors
