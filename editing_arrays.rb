@@ -1,3 +1,5 @@
+require 'pru'
+
 rainbow_colors = [
   "yellow",
   "default",
