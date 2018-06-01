@@ -17,6 +17,6 @@ end
 
 def add_colors
   rainbow_colors = []
- rainbow_colors << "green"
+ rainbow_colors << "red"
  rainbow_colors
 end
