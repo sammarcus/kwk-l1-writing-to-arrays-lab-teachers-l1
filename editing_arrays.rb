@@ -1,6 +1,6 @@
 require 'pry'
 
-rainbow_colors = [
+$ rainbow_colors = [
   "yellow",
   "default",
   "light_cyan"
