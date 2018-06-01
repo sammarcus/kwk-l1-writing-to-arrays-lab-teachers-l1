@@ -1,4 +1,4 @@
-require 'pru'
+require 'pry'
 
 rainbow_colors = [
   "yellow",
