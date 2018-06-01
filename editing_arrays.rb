@@ -1,10 +1,10 @@
 require 'pry'
 
-rainbow_colors = [
-  "yellow",
-  "default",
-  "light_cyan"
-]
+# rainbow_colors = [
+#   "yellow",
+#   "default",
+#   "light_cyan"
+# ]
 
 def change_rainbow_colors
   rainbow_colors = [
